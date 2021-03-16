@@ -22,4 +22,5 @@ docs/_build/
 htmlcov/
 .coverage
 .coverage.*
+flask.gitignore
 *,cover
